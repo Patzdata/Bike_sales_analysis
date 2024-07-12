@@ -6,7 +6,8 @@ This data is aimed at using Sql to answer some business questions on the sales o
 
 #### Data source
 
-The primary dataset used for the analysis is the "bike_sales.csv" file, containing detailed information about all that is to know about the analysis.
+The primary dataset used for the analysis is the "bike_sales.csv" file, containing detailed information about
+ all that is to know about the analysis.
 
 #### Tools 
 
@@ -26,6 +27,9 @@ select PRODCATEGORYID, count(*) as Total_NUMBER
 from products
 group by PRODCATEGORYID
 order by Total_NUMBER desc;
+
+![Screenshot 2024-07-03 010640](https://github.com/user-attachments/assets/fb470e60-1d71-4dfe-8cbe-01cae1071778)
+
 
 -- Q2: List the top 5 most expensive products.
 select PRODCATEGORYID, PRODUCTID, PRICE
