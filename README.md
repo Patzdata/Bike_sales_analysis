@@ -28,7 +28,8 @@ from products
 group by PRODCATEGORYID
 order by Total_NUMBER desc;
 
-![Screenshot 2024-07-03 010640](https://github.com/user-attachments/assets/fb470e60-1d71-4dfe-8cbe-01cae1071778)
+![Screenshot 2024-07-03 010640](https://github.com/user-attachments/assets/4e2b3af3-495e-4629-a431-3d64cd23d4c6)
+
 
 
 -- Q2: List the top 5 most expensive products.
