@@ -18,6 +18,10 @@ The primary dataset used for the analysis is the "bike_sales.csv" file, containi
   1. Data loading
   2. understanding the table and the type of dataset we have.
 
+###
+- Perfom data cleaning
+- Exploratory Data analysis
+
 #### Data Analysis
 
 ``` Products Analysis
